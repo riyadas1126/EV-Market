@@ -1,6 +1,6 @@
-**Electric Vehicle Adoption and Market Analysis 🚗⚡
+**Electric Vehicle Adoption and Market Analysis 🚗⚡**
 
-Overview**
+**Overview**
 This project analyzes the adoption trends, distribution, and growth of Electric Vehicles (EVs) using a real-world dataset. It explores geographical patterns, manufacturer popularity, electric range capabilities, and future market projections to provide insights into the EV market's evolution.
 
 **Key Features**
